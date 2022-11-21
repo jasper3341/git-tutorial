@@ -342,5 +342,3 @@ if __name__ == "__main__":
     else:
         exercise(get_state())
 
-def main():
-    print("Dit is de tweede module")
